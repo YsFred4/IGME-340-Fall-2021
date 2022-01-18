@@ -1,5 +1,5 @@
 # IGME-340 - Multi-platform Media App Development
-## Fall 2021: Syllabus
+## Spring 2022: Syllabus
 
 ## I. Course Catalog Description 
 *Interactive media applications are no longer restricted to personal computers. They can now be found on many distinct hardware platforms including mobile, tablet, wearable, and large-screened computing devices. In this course, students will learn to design, prototype and develop media rich interactive experiences that can be deployed to a wide variety of hardware devices. Individual and group programming projects will be required. 3 Credits*
@@ -13,12 +13,12 @@ IGME-330 Rich Media Web Application Development I
 - Professor: Steve Maier  
 - Office:  Discord Server
 - Email: steve.maier@rit.edu
-- Discord Server: https://discord.gg/am7aN2A6
+- Discord Server: https://discord.gg/q5jSdkTJ
 - Discord Id: Ysfred4#4231
-- Office hours: 
-  - MW 9:00PM - 10:00PM on Discord
+- Office hours:
+  - TR 9:00PM - 10:00PM on Discord
   - Discord is always running so you can ask at anytime
-- Class "meetings": T 6:00PM - 7:00PM on Discord (optional)
+- Class "meetings": TR 12:30-1:45PM on Discord (optional)
 
 
 ## IV. Course Goal & Outcomes
